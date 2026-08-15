@@ -1,5 +1,4 @@
-
-package com.omnistore.model;
+package model;
 
 public enum OrderStatus {
     PENDING,
