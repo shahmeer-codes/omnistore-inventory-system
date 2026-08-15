@@ -11,12 +11,13 @@ A comprehensive, thread-safe Core Java application built to demonstrate advanced
 - **Robust Exception Handling:** Custom exceptions (`InsufficientStockException`, `ProductNotFoundException`) with `try-catch-finally` blocks.
 - **Persistence:** File I/O streaming to record audit logs and transaction history to disk.
 
-## 📁 Package Overview
+## 📁 Repository Overview
 
-- `com.omnistore.model`: Core entities, Enums, and generic containers.
-- `com.omnistore.exception`: Domain-specific runtime exceptions.
-- `com.omnistore.service`: Thread-safe business logic for stock management and order processing.
-- `com.omnistore.util`: File streams, varargs logging, and background timers.
+- `model/`: Core entities, Enums, and generic containers.
+- `exception/`: Domain-specific runtime exceptions.
+- `service/`: Thread-safe business logic for stock management and order processing.
+- `util/`: File streams, varargs logging, and background timers.
+- `Main.java`: Entry point executing inventory operations and multithreaded order workers.
 
 ## 💻 How to Run
 
