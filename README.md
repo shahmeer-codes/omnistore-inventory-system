@@ -22,5 +22,5 @@ A comprehensive, thread-safe Core Java application built to demonstrate advanced
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/omnistore-inventory-system.git](https://github.com/YOUR_USERNAME/omnistore-inventory-system.git)
+   git clone [https://github.com/shahmeer-codes/omnistore-inventory-system.git](https://github.com/shahmeer-codes/omnistore-inventory-system.git)
    cd omnistore-inventory-system
